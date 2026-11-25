@@ -12,6 +12,7 @@
 ## Watch the video
 
 [Watch / download E25B071049_Video.mp4](https://github.com/SAAMVED/M3_AnimationVideo_Concept_E25B071049/raw/main/E25B071049_Video.mp4)
+https://drive.google.com/file/d/1rmbZbQFVnbZdClbEX9z0s_fOnzpNRjnr/view?usp=sharing
 
 GitHub can't preview files this large in the browser (the video is 28.1 MB), so use the link above or the download button on the file page. Format: 1080p, 16:9, MP4, with an opening frame (title, concept, name and ID) and a closing frame (summary and credits).
 
